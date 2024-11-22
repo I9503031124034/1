@@ -1,0 +1,37 @@
+import 
+{
+createElement
+}
+from
+'react'
+var
+ELEMENT
+=
+createElement
+import
+{
+View
+}
+from
+'react-native'
+var
+VIEW
+=
+View
+export 
+default
+(
+) => 
+{
+return ELEMENT
+(
+VIEW
+,
+{
+style
+:
+{
+}
+}
+)
+}
